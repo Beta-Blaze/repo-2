@@ -1,1 +1,15 @@
 Ветки отличаются файлами, в файлах отличаются картинки человечка, у них разные ноги.
+Коммитов в удаленном репозитории 13 коммитов
+Отличие веток
+Merge branch 'boots_buttons'
+Merge branch 'hat'
+Merge branch 'boots_buttons' into buttons
+Merge branch 'buttons' into boots_buttons
+Merge branch 'buttons' into demo
+fix readme
+dots
+README added
+Merge branch 'boots' into release
+boots
+heat added
+init
